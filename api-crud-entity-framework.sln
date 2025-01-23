@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-crud-entity-framework", "api-crud-entity-framework.csproj", "{6C84EE91-A4C9-D057-1C19-1F1D93521657}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C84EE91-A4C9-D057-1C19-1F1D93521657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C84EE91-A4C9-D057-1C19-1F1D93521657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C84EE91-A4C9-D057-1C19-1F1D93521657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C84EE91-A4C9-D057-1C19-1F1D93521657}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43D8B407-F2AF-46AA-9E17-8C805A66B16C}
+	EndGlobalSection
+EndGlobal
